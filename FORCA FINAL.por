@@ -1,3 +1,7 @@
+/*
+	1° Projeto desenvolvido por Alexsandro Santana para o curso Tecnico em Desenvolvimento de Sistemas - SENAI BA - 1° Semestre - 01.2023
+*/
+
 programa
 {
 		inclua biblioteca Tipos--> t
